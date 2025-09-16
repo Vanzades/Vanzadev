@@ -1,6 +1,6 @@
 # 👋 Ingin Menjadi Programmer Handal, Namun Enggan Ngoding!
 
-🚀 **Ingin Menjadi Programmer Handal, Namun Enggan Ngoding!**  
+  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanzades&label=Profile%20Views&color=blue&style=flat" alt="views" />
