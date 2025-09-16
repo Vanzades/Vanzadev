@@ -11,7 +11,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanzades&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=radical" alt="top langs" />
 </p>
 
@@ -19,7 +19,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAMEKAMU&theme=darkhub&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vanzades&theme=darkhub&margin-w=15&margin-h=15" alt="trophy" />
 </p>
 
 ---
