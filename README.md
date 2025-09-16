@@ -1,9 +1,14 @@
-# 👋 Halo, Saya Vanza Desviana  
-
-🚀 **Ngoding Dulu, Jagonya Belakangan!**  
+# 🚀 Ingin Menjadi Programmer Handal, Namun Enggan Ngoding!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="car moving" />
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="300" alt="car driving" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanzades&theme=darkhub&no-frame=true&column=3&row=2" alt="trophy" />
 </p>
 
 ---
