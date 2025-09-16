@@ -8,6 +8,9 @@
 
 ### 🏆 Achievements
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanzades&layout=compact&theme=radical" alt="top langs" />
+</p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vanzades&theme=darkhub&no-frame=true&column=3&row=2" alt="trophy" />
 </p>
 
