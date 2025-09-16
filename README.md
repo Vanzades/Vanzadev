@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanzades&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanzades&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
