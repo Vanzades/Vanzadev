@@ -1,7 +1,7 @@
 # 🚀 Ingin Menjadi Programmer Handal, Namun Enggan Ngoding!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="300" alt="car driving" />
+  <img src="https://komarev.com/ghpvc/?username=vanzades&label=Profile%20Views&color=blue&style=flat" alt="views" />
 </p>
 
 ---
